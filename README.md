@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asna-Zulfiqar
-- 👀 I’m interested in Artificial Intelligence
--  🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in Web Development.
+-  🌱 I’m currently working on Django DRF.
+- 💞️ I’m looking to collaborate on Backend Web Development.
 - 📫 How to reach me asna.zulfiqar19@gmail.com
 - 😄 Pronouns: She\Her
 - ⚡ Fun fact: I like to read books.
